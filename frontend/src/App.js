@@ -6,7 +6,9 @@ function App() {
     <div className="App">
       this is the testing purpose;
       Please ignore it;
-      hello , i am added
+      hello , i am added.
+
+      Rules added
     </div>
   );
 }
