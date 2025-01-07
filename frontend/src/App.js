@@ -8,7 +8,7 @@ function App() {
       Please ignore it;
       hello , i am added.
 
-      Rules added
+      Rules added heree!
     </div>
   );
 }
